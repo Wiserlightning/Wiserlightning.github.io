@@ -8,6 +8,16 @@
  *  Last update on: 2018/10/24
  *  ©2018 Yahia Refaiea. all rights reserved.
  */
+.hobby-list {
+  list-style: none;
+  padding: 0;
+  margin: 20px 0;
+  font-size: 1.2rem;
+  line-height: 2;
+}
+.hobby-list li {
+  margin-bottom: 10px;
+}
 
 .mCustomScrollbar {
   -ms-touch-action: pinch-zoom;
